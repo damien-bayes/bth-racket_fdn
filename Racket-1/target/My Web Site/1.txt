@@ -1,0 +1,183 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang='en-GB' xmlns='http://www.w3.org/1999/xhtml' title='Hexagon Foundation'>
+    <head>
+        <meta charset='UTF-8'>
+        <meta http-equiv='X-UA-Compatible' content='IE=edge' />
+        <meta name='viewport' content='width=device-width, initial-scale=1'>
+        <meta name='language' content='en-GB' />
+        <meta name='copyright' content='Hexagon Foundation' />
+        <meta name='robots' content='index,follow' />
+        <meta name='author' content='Damien Bayes, damien.bayes.db@gmail.com' />
+
+        <meta name='keywords' content='HTML,CSS,JavaScript,SQL,PHP,jQuery,XML,DOM,Bootstrap,Web development,W3C,tutorials,programming,training,learning,quiz,primer,lessons,references,examples,source code,colors,demos,tips' />
+        <meta name='description' content='Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, and XML.' />
+
+        <meta name="csrf-param" content="_csrf">
+    <meta name="csrf-token" content="NHZPYUxCU2oGA2IbJicXHUAbGlQYIGo6Ujs5VQEdF1JrJwgUFDUePA==">
+        <title>Welcome to Hexagon Foundation</title>
+
+        <link rel='shortcut icon' type='image/x-icon' href='/assets/ico/favicon.png' />
+
+        <!-- https://fonts.google.com/?selection.family=Raleway -->
+        <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' />
+        <link href="/assets/1bf52b48/css/bootstrap.css" rel="stylesheet">
+<link href="/css/bootstrap-customization.css" rel="stylesheet">
+<link href="/css/layout.css" rel="stylesheet">
+<link href="/css/font-awesome.css" rel="stylesheet">    </head>
+
+    <body>
+                <!-- Hexagon Foundation - Preloader -->
+        <div id="loading">
+            <div id="box">
+                <div class="assembly">
+                    <div class="triangle"></div>
+                    <div class="triangle"></div>
+                    <div class="triangle"></div>
+                    <div class="triangle"></div>
+                    <div class="triangle"></div>
+                    <div class="triangle"></div>
+                    <div class="triangle"></div>
+                    <div class="triangle"></div>
+                    <div class="triangle"></div>
+                    <div class="triangle"></div>
+                    <div class="triangle"></div>
+                    <div class="triangle"></div>
+                    <div class="triangle"></div>
+                    <div class="triangle"></div>
+                    <div class="triangle"></div>
+                    <div class="triangle"></div>
+                    <div class="triangle"></div>
+                    <div class="triangle"></div>
+                    <div class="hex"></div>
+                </div>
+                <p>Loading</p>
+            </div>
+        </div>
+        <!-- Hexagon Foundation - Scroll2Top -->
+        <a href="#" class="scroll-to-top">
+            <span class="fi-arrow-up"></span>
+        </a>
+
+        <nav id="w3" class="navbar navbar-default navbar-fixed-top" role="navigation"><div class="container"><div class="navbar-header"><button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#w3-collapse"><span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span></button><a class="navbar-brand" href="/">Hexagon Foundation</a></div><div id="w3-collapse" class="collapse navbar-collapse"><ul id="w4" class="navbar-nav navbar-right nav"><li><a href="/services.hex">Services</a></li>
+<li><a href="/portfolio.hex">Portfolio</a></li>
+<li><a href="/recalls.hex">Recalls</a></li>
+<li><a href="/about.hex">About</a></li>
+<li><a href="/contact.hex">Contacts</a></li>
+<li><a href="/login.hex">Login</a></li></ul></div></div></nav>
+        <div class="container wrapped">
+            
+            
+<div class="site-index">
+
+    <div class="jumbotron">
+        <h1>Congratulations!</h1>
+
+        <p class="lead">You have successfully created your Yii-powered application. <span class='fa fa-config'></span></p>
+
+        <p><a class="btn btn-lg btn-success" href="http://www.yiiframework.com">Get started with Yii</a></p>
+    </div>
+
+
+         <button id="w0" class="btn btn-success">Hello World</button>
+    <div class="body-content">
+
+        <div class="row">
+            <div class="col-lg-4">
+                <h2>Heading</h2>
+
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+                    fugiat nulla pariatur.</p>
+
+                <p><a class="btn btn-default" href="http://www.yiiframework.com/doc/">Yii Documentation &raquo;</a></p>
+            </div>
+            <div class="col-lg-4">
+                <h2>Heading</h2>
+
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+                    fugiat nulla pariatur.</p>
+
+                <p><a class="btn btn-default" href="http://www.yiiframework.com/forum/">Yii Forum &raquo;</a></p>
+            </div>
+            <div class="col-lg-4">
+                <h2>Heading</h2>
+
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+                    fugiat nulla pariatur.</p>
+
+                <p><a class="btn btn-default" href="http://www.yiiframework.com/extensions/">Yii Extensions &raquo;</a></p>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+            <a>link text</a>        </div>
+
+        <!-- Hexagon Foundation - Footer Layout -->
+        <div class='container'>
+            <div class='footer-wrapper'>
+
+                <p>&copy; 2016 <u>Hexagon Foundation</u>. All rights reserved. All trademarks are property of their respective owners.</p>
+
+                <div class='footer-navigation'>
+                    <ul>
+                        <li><a href='#'>Jobs</a></li>
+                        <li><a href='#'>Agreements</a></li>
+                        <li>
+                            <a href='#'>
+                                <span class='gryphicon gryphicon-star'></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href='#'>
+                                <span class='gryphicon gryphicon-star'></span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+    <script src="/assets/e7a98fcb/jquery.js"></script>
+<script src="/assets/1bf52b48/js/bootstrap.js"></script>
+<script src="/assets/afa0d2de/yii.js"></script>
+    <script >
+            // Hexagon Foundation - Preloader
+            $(window).load(function () {
+                $("#loading").delay(500).fadeOut("slow");
+                $("#overlayer").delay(500).fadeOut("slow");
+            })
+
+            // Hexagon Foundation - Scroll2Top 
+            (function ($) {
+                $(document).ready(
+                  function () {
+                      $(window).scroll(function () {
+                          if ($(this).scrollTop() > 100) {
+                              $('.scroll-to-top').fadeIn();
+                          } else {
+                              $('.scroll-to-top').fadeOut();
+                          }
+                      });
+
+                      $('.scroll-to-top').click(function (e) {
+                          e.preventDefault();
+                          $('html, body').animate({ scrollTop: 0 }, 300);
+                      });
+                  });
+            })(jQuery);
+        </script>
+
+    </body>
+    </html>
