@@ -1,0 +1,51 @@
+;; Damien Bayes - The Racket Guide (Specimens)
+;; Email: damien_laboratories@live.com
+
+;; For more information: https://docs.racket-lang.org/guide/syntax-overview.html?q=performance
+
+;; ------------------------------------------------------------------------------------
+;; RACKET - DIRECTIVES
+#lang racket
+;; ------------------------------------------------------------------------------------
+
+
+
+;; ------------------------------------------------------------------------------------
+;; RACKET - PUBLIC
+(provide copyright)
+(provide pi)
+;; ------------------------------------------------------------------------------------
+
+
+
+
+
+;; ------------------------------------------------------------------------------------
+;; RACKET - VARIABLES
+(define copyright "© 2016 Damien Bayes. All rights reserved. All trademarks are property of their respective owners.")
+
+;; defines pi to be 3.14159 because it's a mathematical constant
+(define pi 3.14159)
+
+;; Templates
+;(define (functionName1 argument1)
+;  (substring argument1 0 6))
+
+;(define (print arg)
+;  string-append arg "Hello, world!")
+
+;; Example: Multiple expressions for the function's body
+;(define (fruits arg1)
+;  (printf "The function <fruits> was called successfully! \n")
+;  (string-append arg1 " pear"))
+;; ------------------------------------------------------------------------------------
+
+
+
+
+
+
+;; ------------------------------------------------------------------------------------
+;; RACKET - DEFAULT
+
+;; ------------------------------------------------------------------------------------

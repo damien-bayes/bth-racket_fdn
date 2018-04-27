@@ -1,0 +1,64 @@
+;; http://www.wolframalpha.com/examples/Math.html
+;; https://docs.racket-lang.org/racket-cheat/index.html
+
+#lang racket
+
+(provide fibb)
+(provide GetFactorial)
+
+; ===============================================
+(define (last2 l) 
+  (first (cdr (reverse l)))
+)
+
+(define (last1 l) 
+  (first (reverse l))
+)
+
+(define (fibb n) 
+  (fibb2 n '(1 1))
+)
+
+(define (fibb2 n l)
+  (cond 
+    ((<= n 2) l)
+  (else 
+    (fibb2 (- n 1) (append l (cons (+ (last1 l) (last2 l)) null)))
+  ))
+)
+; ===============================================
+
+; ===============================================
+(define (GetFactorial arg)
+  (cond
+    ((eqq arg 1) 1)
+  (else
+    (* arg (GetFactorial(- arg 1)))
+  ))
+)
+
+(define (eqq a b)
+  (equal? a b)
+)
+; ===============================================
+
+; ===============================================
+(define (nelm i l)
+  (cond 
+    ((eqq l null) null)
+    ((eqq i 1) (car l))
+  (else
+    (nelm (- i 1) (cdr l))
+  ))
+)
+; ===============================================
+
+; ===============================================
+(define (Reverse listOfNumbers)
+  (cond
+    ((eqq listOfNumbers null) null)
+  (else
+    (append (Reverse (cdr listOfNumbers)) (cons (car listOfNumbers) null))
+  ))
+)
+; ===============================================

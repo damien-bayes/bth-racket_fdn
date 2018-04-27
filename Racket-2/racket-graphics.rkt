@@ -1,0 +1,58 @@
+;; Damien Bayes - The Racket Guide (Specimens)
+;; Email: damien_laboratories@live.com
+
+;; The code was written by Damien Bayes. © 2016 Damien Bayes. All rights reserved. All trademarks are property of their respective owners.
+
+;; For more information: https://docs.racket-lang.org/guide/syntax-overview.html?q=performance
+
+;; ------------------------------------------------------------------------------------
+;; RACKET - DIRECTIVES
+#lang slideshow
+
+;; Modules
+;; ------------------------------------------------------------------------------------
+
+
+
+;; ------------------------------------------------------------------------------------
+;; RACKET - VARIABLES
+
+;; ------------------------------------------------------------------------------------
+
+
+
+
+;; ------------------------------------------------------------------------------------
+;; RACKET - FUNCTIONS
+;(define (checker p1 p2)
+;  (let ([p12 (hc-append p1 p2)]
+;        [p21 (hc-append p2 p1)])
+;    (vc-append p12 p21)))
+
+;(define (square n)
+;  (filled-rectangle n n))
+
+;(define c (circle 10))
+
+;(define r (rectangle 10 20))
+;; ------------------------------------------------------------------------------------
+
+
+;; compiler / interpretator (read and output)
+
+
+;; ------------------------------------------------------------------------------------
+;; RACKET -MAIN
+; (rectangle 24 24)
+
+ ;(slide
+ ;#:title "How to Say Hello"
+ ;(t "Hello World!"))
+
+;(slide
+; #:title "How to Say Hello"
+; (t "Hello World!")
+; (t "Goodbye Dlrow!"))
+
+
+;; ------------------------------------------------------------------------------------
