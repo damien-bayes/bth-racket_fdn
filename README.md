@@ -1,1 +1,1 @@
-# bayesian-racket-specimens
+# Bayesian Racket Specimens
